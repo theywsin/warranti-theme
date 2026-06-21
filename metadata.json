@@ -1,0 +1,6 @@
+{
+  "name": "AirCare Pro WordPress Theme Builder",
+  "description": "An interactive workspace to customize, simulate, browse code, and package the AirCare Pro WordPress Theme and Easy Installer bundle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
